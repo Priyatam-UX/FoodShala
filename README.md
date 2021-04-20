@@ -1,2 +1,1 @@
-# Foodshala
-Full Stack app
+
