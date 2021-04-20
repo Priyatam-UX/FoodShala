@@ -34,13 +34,13 @@
             <div class="col-md-8 col-sm-6 col-xs-12">
                 <p class="copyright-text">
                     <!-- Copyright &copy;  -->
-                    Developed by Abhijit Singh
+                    Developed by Priyatam
                 </p>
             </div>
 
             <div class="col-md-4 col-sm-6 col-xs-12">
                 <ul class="social-icons">
-                    <li><a class="linkedin" href="https://www.linkedin.com/in/singh-abhijit/"><i class="fa fa-linkedin"></i></a></li>
+                    <li><a class="linkedin" href="https://www.linkedin.com/in/priyatam-chinnari/"><i class="fa fa-linkedin"></i></a></li>
                 </ul>
             </div>
         </div>
